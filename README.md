@@ -2,7 +2,7 @@
 
 Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python to scrape the web.
 
-**Link to this repo: [http://bit.ly/nicar19-scraping](http://bit.ly/nicar19-scraping)**
+### Link to this repo: [bit.ly/nicar19-scraping](http://bit.ly/nicar19-scraping)
 
 - [Other rad Python classes to check out at #NICAR19](#other-rad-python-classes-to-check-out-at-nicar19)
 - [Running these notebooks at home](#running-these-notebooks-at-home)
