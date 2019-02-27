@@ -2,6 +2,13 @@
 
 Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python to scrape the web.
 
+**Link to this repo: [http://bit.ly/nicar19-scraping](http://bit.ly/nicar19-scraping)**
+
+- [Other rad Python classes to check out at #NICAR19](#other-rad-python-classes-to-check-out-at-nicar19)
+- [Running these notebooks at home](#running-these-notebooks-at-home)
+- [Starting a new scraping project using this setup](#starting-a-new-scraping-project-using-this-setup)
+
+
 **When and where:** [Saturday, March 9, from 2:15 - 5:45 p.m. in Salon 3](https://www.ire.org/events-and-training/event/3433/4395/)
 
 **Description:** If you need data that's trapped on a website, writing some code to scrape the page could be your solution. This entry-level class will show you how to use the Python programming language to harvest information from websites into a data file. We'll introduce you to the command line and show you how to write enough code to fetch, parse and analyze web content.
@@ -26,9 +33,9 @@ Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python
 **Friday, March 8**
 - 9 a.m. - 5:45 p.m. in Coral Cove -- [First Python notebook: Data analysis on deadline](https://www.ire.org/events-and-training/event/3433/4094/) (This session requires pre-registration and an additional fee to save a seat.)
 - 2:15 - 3:15 p.m. in Copper Cover -- [Python: Let's Scrape a Website](https://www.ire.org/events-and-training/event/3433/4246/)
-- 4:45 - 5:45 p.m. in Copper Cover -- [Python: Let's Scrape a Website (repeat)](https://www.ire.org/events-and-training/event/3433/4287/)
 
 **Saturday, March 9**
+- 9-10 a.m. in Diamond Cove -- [Python: Let's Scrape a Website (repeat)](https://www.ire.org/events-and-training/event/3433/4287/)
 - 9 a.m. - 12:30 p.m. in Mariner Cove -- [Write better Python code](https://www.ire.org/events-and-training/event/3433/4087/) (This session requires pre-registration and an additional fee to save a seat; also, you need to bring your own laptop.)
 - 3:30 - 4:30 p.m. in Copper Cove -- [Python: Data visualization with Altair](https://www.ire.org/events-and-training/event/3433/4204/)
 - 4:45 - 5:45 p.m. in Copper Cove -- [Python: Writing tests for your code](https://www.ire.org/events-and-training/event/3433/4234/)
@@ -74,7 +81,7 @@ This should launch the notebook server in your browser, and your terminal should
 
 Work in your notebooks. When you're done, you can close out of the browser tab. To quit the server in your terminal, hit `Ctrl+C`. That's it!
 
-## Starting a new scraping project
+## Starting a new scraping project using this setup
 
 This example assumes that you already have Python and pipenv installed and you want to use `jupyter`, `requests` and `beautifulsoup`.
 
