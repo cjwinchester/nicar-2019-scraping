@@ -4,10 +4,12 @@ Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python
 
 ### Link to this repo: [bit.ly/nicar19-scraping](http://bit.ly/nicar19-scraping)
 
+- [Session details](#session-details)
 - [Other rad Python classes to check out at #NICAR19](#other-rad-python-classes-to-check-out-at-nicar19)
 - [Running these notebooks at home](#running-these-notebooks-at-home)
 - [Starting a new scraping project using this setup](#starting-a-new-scraping-project-using-this-setup)
 
+## Session details
 
 **When and where:** [Saturday, March 9, from 2:15 - 5:45 p.m. in Salon 3](https://www.ire.org/events-and-training/event/3433/4395/)
 
@@ -23,29 +25,24 @@ Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python
 
 [PyCAR](https://www.ire.org/events-and-training/event/3433/4086/) runs Thursday and Friday mornings from 9 a.m. - 12:30 p.m. (This session requires pre-registration and an additional fee to save a seat.)
 
-**Thursday, March 7**
-- 9-10 a.m. in Copper Cover -- [Python: Machine learning and natural language processing](https://www.ire.org/events-and-training/event/3433/4221/)
-- 11:30 a.m. - 12:30 p.m. in Salon D -- [Python 101: An overview for total beginners](https://www.ire.org/events-and-training/event/3433/4192/)
-- 2:15 - 3:15 p.m. in Salon 5 -- [Python 1: The fundamentals](https://www.ire.org/events-and-training/event/3433/4239/)
-- 3:30 - 4:30 p.m. in Salon 5 -- [Python 2: Intro to data analysis using pandas](https://www.ire.org/events-and-training/event/3433/4240/)
-- 4:45 - 5:45 p.m. in Salon 5 -- [Python 3: Data cleaning and visualization](https://www.ire.org/events-and-training/event/3433/4241/)
-
-**Friday, March 8**
-- 9 a.m. - 5:45 p.m. in Coral Cove -- [First Python notebook: Data analysis on deadline](https://www.ire.org/events-and-training/event/3433/4094/) (This session requires pre-registration and an additional fee to save a seat.)
-- 2:15 - 3:15 p.m. in Copper Cover -- [Python: Let's Scrape a Website](https://www.ire.org/events-and-training/event/3433/4246/)
-
-**Saturday, March 9**
-- 9-10 a.m. in Diamond Cove -- [Python: Let's Scrape a Website (repeat)](https://www.ire.org/events-and-training/event/3433/4287/)
-- 9 a.m. - 12:30 p.m. in Mariner Cove -- [Write better Python code](https://www.ire.org/events-and-training/event/3433/4087/) (This session requires pre-registration and an additional fee to save a seat; also, you need to bring your own laptop.)
-- 3:30 - 4:30 p.m. in Copper Cove -- [Python: Data visualization with Altair](https://www.ire.org/events-and-training/event/3433/4204/)
-- 4:45 - 5:45 p.m. in Copper Cove -- [Python: Writing tests for your code](https://www.ire.org/events-and-training/event/3433/4234/)
-
-**Sunday, March 10**
-- 9 a.m.- 12:30 p.m. in Coral Cove -- [Web scraping with Python](https://www.ire.org/events-and-training/event/3433/4093/) (This session requires pre-registration and an additional fee to save a seat.)
-- 9 - 10 a.m. in Salon 5 -- [Python 1: The fundamentals(repeat)](https://www.ire.org/events-and-training/event/3433/4284/)
-- 10:15 - 11:15 a.m. in Salon 5 -- [Python 2: Intro to data analysis using pandas (repeat)](https://www.ire.org/events-and-training/event/3433/4285/)
-- 10:15 - 11:15 a.m. in Copper Cove -- [Python: Basic mapping and GIS](https://www.ire.org/events-and-training/event/3433/4248/)
-- 11:30 a.m. - 12:30 p.m. in Salon 5 -- [Python 3: Data cleaning and visualization (repeat)](https://www.ire.org/events-and-training/event/3433/4286/)
+| Day | Class | Room | Time | Pre-registration required? |
+| --- | ---- | ----- | ---- | :--------------------------: |
+| Thursday | [Python: Machine learning and natural language processing](https://www.ire.org/) | Copper Cove | 9-10 a.m. | |
+| Thursday | [Python 101: An overview for total beginners](https://www.ire.org/events-and-training/event/3433/4192/) | Salon D | 11:30 a.m. - 12:30 p.m. | |
+| Thursday | [Python 1: The fundamentals](https://www.ire.org/events-and-training/event/3433/4239/) | Salon 5 | 2:15 - 3:15 p.m. | |
+| Thursday | [Python 2: Intro to data analysis using pandas](https://www.ire.org/events-and-training/event/3433/4240/) | Salon 5 | 3:30 - 4:30 p.m. | |
+| Thursday | [Python 3: Data cleaning and visualization](https://www.ire.org/events-and-training/event/3433/4241/) | Salon 5 | 4:45 - 5:45 p.m. | |
+| Friday | [First Python notebook: Data analysis on deadline](https://www.ire.org/events-and-training/event/3433/4094/) | Coral Cove | 9 a.m. - 5:45 p.m. | ✅ |
+| Friday | [Python: Let's Scrape a Website](https://www.ire.org/events-and-training/event/3433/4246/) | Copper Cove | 2:15 - 3:15 p.m. | |
+| Saturday | [Python: Let's Scrape a Website (repeat)](https://www.ire.org/events-and-training/event/3433/4287/) | Diamond Cove | 9-10 a.m. | |
+| Saturday | [Write better Python code](https://www.ire.org/events-and-training/event/3433/4087/) (BYO laptop) | Mariner Cove | 9 a.m. - 12:30 p.m. | ✅ |
+| Saturday | [Python: Data visualization with Altair](https://www.ire.org/events-and-training/event/3433/4204/) | Copper Cove | 3:30-4:30 p.m. | |
+| Saturday | [Python: Writing tests for your code](https://www.ire.org/events-and-training/event/3433/4234/) | Copper Cove | 4:45-5:45 p.m. | |
+| Sunday | [Web scraping with Python](https://www.ire.org/events-and-training/event/3433/4093/) | Coral Cove | 9 a.m.- 12:30 p.m. | ✅ |
+| Sunday | [Python 1: The fundamentals (repeat)](https://www.ire.org/events-and-training/event/3433/4284/) | Salon 5 | 9-10 a.m. | |
+| Sunday | [Python 2: Intro to data analysis using pandas (repeat)](https://www.ire.org/events-and-training/event/3433/4285/) | Salon 5 | 10:15-11:15 a.m. | |
+| Sunday | [Python: Basic mapping and GIS](https://www.ire.org/events-and-training/event/3433/4248/) | Copper Cove | 10:15-11:15 a.m. | |
+| Sunday | [Python 3: Data cleaning and visualization (repeat)](https://www.ire.org/events-and-training/event/3433/4286/) | Salon 5 | 11:30 a.m. - 12:30 p.m. | |
 
 ## Running these notebooks at home
 
