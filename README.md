@@ -21,7 +21,7 @@ Notebooks and documentation for a 3.5-hour session at NICAR 2019 on using Python
 
 **What we'll cover:** Common use cases for scraping, a few best practices, some basic Python syntax, fetching HTML with the `requests` library, parsing HTML with the `beautifulsoup` library and writing data to file. If we have time, we'll also talk about scraping paginated data and a few other more complex tasks.
 
-**What we won't cover, probably:** Scraping dynamically rendered pages, pages that require authentication or pages that require you to keep track of session information.
+**What we won't cover, probably:** Scraping dynamically rendered pages, pages that require authentication or pages that otherwise require you to keep track of session information.
 
 ## Other rad Python classes to check out at #NICAR19
 
